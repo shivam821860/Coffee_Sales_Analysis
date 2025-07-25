@@ -11,13 +11,9 @@ This project features a dynamic and interactive Coffee Sales Dashboard built ent
 Key Features:
 
 Sales analysis by product, category, and date
-
 Top-performing products and categories
-
 Store and region-level performance breakdown
-
 Interactive visuals with Pivot Tables, Charts, and Slicers
-
 Clean, user-friendly dashboard interface
 
 📊 Recommended Analysis
